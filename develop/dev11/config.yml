@@ -1,0 +1,5 @@
+http_server:
+  host: localhost
+  port: 8080
+db:
+  dsn: store.db
